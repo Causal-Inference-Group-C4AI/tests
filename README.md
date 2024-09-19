@@ -1,2 +1,2 @@
-# do-why-tests
-Repository to save and document tests with th python package Do Why.
+# Do-Why-Tests
+Repository to save and document tests with python package Do Why.
