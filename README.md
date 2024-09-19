@@ -38,13 +38,13 @@ Usando o mecanismo Y = X and U
 ```
 
 ### Exemplo 2
-Na pasta `data` tem o arquivo `balke_pearl_example_7.csv`.
-Na pasta `data_description` terá o arquivo `balke_pearl_example_7.txt`.
+Na pasta `data` tem o arquivo `balke_pearl_article.csv`.
+Na pasta `data_description` terá o arquivo `balke_pearl_article.txt`.
 
 Nele arquivo poderá ter a descrição:
 
 ```python
-Dados referentes ao exemplo 7 do artigo balke e pearl (link-do-artigo).
+Dados referentes ao exemplo do artigo balke e pearl (link-do-artigo).
 O dataset tem 1000 linhas seguindo a distribuição:
 
 probabilities_z_x_y: ArrayType = [
