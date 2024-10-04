@@ -1,0 +1,24 @@
+Dados referentes às distribuições usadas no artigo de balke e pearl (https://drive.google.com/drive/folders/1C0RTiifJqga3DeqjCWGBmU_YCIIzJabb).
+O dataset tem 1000 linhas seguindo a distribuição:
+
+probabilities_z_x_y: ArrayType = [
+    [[0, 0, 0], 0.288],
+    [[0, 0, 1], 0.036],
+    [[0, 1, 0], 0.288],
+    [[0, 1, 1], 0.288],
+    [[1, 0, 0], 0.002],
+    [[1, 0, 1], 0.067],
+    [[1, 1, 0], 0.017],
+    [[1, 1, 1], 0.014],
+]
+
+Ou seja, tem:
+
+288 linhas com 0,0,0
+36  linhas com 0,0,1
+288 linhas com 0,1,0
+288 linhas com 0,1,1
+2   linhas com 1,0,0
+67  linhas com 1,0,1
+17  linhas com 1,1,0
+14  linhas com 1,1,1

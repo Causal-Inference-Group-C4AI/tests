@@ -1,0 +1,6 @@
+Dados referentes ao exemplo 7 do artigo Markov conditions and factorization in logical credal networks (https://doi.org/10.1016/j.ijar.2024.109237).
+
+Os dados foram passados como redes bayesianas em arquivos .uai, nomeados de acordo com a variação do exemplo.
+Respectivamente, "variation_1.uai", "variation_2.uai" e "variation_3.uai".
+
+As ilustrações de como são as redes e as fórmulas que regem as relações entre as variáveis estão presentes no notebook.
