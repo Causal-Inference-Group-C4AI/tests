@@ -1,0 +1,41 @@
+
+[('U30', 0.5), ('U31', 0.5), ('U10', 0.5), ('U11', 0.5), ('U20', 0.5), ('U21', 0.5)]
+LOWER BOUND: # -- Primal: nan / Dual: -0.9921875 / Time: 0.4 ##
+UPPER BOUND: # -- Primal: nan / Dual: 0.9960938 / Time: 0.3 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9882813000000001 / Epsilon: nan ##
+LOWER BOUND: # -- Primal: -6.502171e-07 / Dual: -0.9918525 / Time: 0.6 ##
+UPPER BOUND: # -- Primal: 0.5000001 / Dual: 0.9942935 / Time: 4.8 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861460000000002 / Epsilon: 2.972286039846174 ##
+LOWER BOUND: # -- Primal: -7.006559e-07 / Dual: -0.9918516 / Time: 10.0 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 10.4 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.9722806613155757 ##
+LOWER BOUND: # -- Primal: -8.27465e-07 / Dual: -0.9918516 / Time: 15.4 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 15.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.9722796538755794 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 20.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.9722796538755794 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 25.4 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.9722796538755794 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 30.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.9722796538755794 ##
+LOWER BOUND: # -- Primal: -1.279219e-06 / Dual: -0.9918516 / Time: 31.0 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 35.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 40.4 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 45.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 50.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 55.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 60.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 65.6 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+UPPER BOUND: # -- Primal: 0.5000005 / Dual: 0.9942935 / Time: 70.5 ##
+CURRENT THRESHOLDS: # -- Theta: 1.9861451 / Epsilon: 2.972276064901905 ##
+pressed CTRL-C 1 times (5 times for forcing termination)
+
+
+UPPER BOUND não converge
